@@ -21,3 +21,5 @@ ATTACK: 9
 DEFENSE: 5
 AGILITY: 10
 ```
+
+This is useful for educational purposes.
