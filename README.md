@@ -1,6 +1,6 @@
 # Monster profiles
 
-Basic asymmetrical profile picture and stats generator
+Basic symmetrical profile picture and stats generator
 
 ```bash
 $ ./cmake-build-debug/monsters 
